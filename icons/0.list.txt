@@ -49,10 +49,12 @@ Icon-Small-50x50@2x.png:   PNG image data, 100 x 100, 8-bit/color RGB, non-inter
 Android:
 
 mipmap-hdpi/ic_launcher.png:    PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
+mipmap-hdpi/ic_quick.png:		PNG image data, 72 x 72, 8-bit/color RGBA, non-interlaced
 mipmap-ldpi/ic_launcher.png:    PNG image data, 36 x 36, 8-bit/color RGBA, non-interlaced
 mipmap-mdpi/ic_launcher.png:    PNG image data, 48 x 48, 8-bit/color RGBA, non-interlaced
 mipmap-xhdpi/ic_launcher.png:   PNG image data, 96 x 96, 8-bit/color RGBA, non-interlaced
 mipmap-xxhdpi/ic_launcher.png:  PNG image data, 144 x 144, 8-bit/color RGBA, non-interlaced
+mipmap-xxhdpi/ic_quick.png:		PNG image data, 144 x 144, 8-bit/color RGBA, non-interlaced
 mipmap-xxxhdpi/ic_launcher.png: PNG image data, 192 x 192, 8-bit/color RGBA, non-interlaced
 
 windows:
@@ -62,7 +64,9 @@ logo2.ico: MS Windows icon resource - 17 icons, 32x32, 16 colors
 
 linux:
 
-launcher_linux_512.png: PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
+launcher_linux_512.png:				PNG image data, 512 x 512, 8-bit/color RGBA, non-interlaced
+linux/linux_tray_connected.svg:		SVG Scalable Vector Graphics image
+linux/linux_tray_disconnected.svg:	SVG Scalable Vector Graphics image
 
 macos:
 
